@@ -5,7 +5,7 @@
     user: {
       username: 'user'
     },
-    link: '/',
+    link: '/story/123',
     commentsCount: '2 comments',
     createdAt: '2 days ago'
   }
